@@ -1,0 +1,112 @@
+---
+title: "Resume"
+---
+
+# Christopher Praley
+
+Data Analytics Leader in Social Science Research  
+San Francisco, California, United States
+
+## Contact Information
+
+- **Email:** [chris.praley@gmail.com](mailto:chris.praley@gmail.com)
+- **LinkedIn:** [Christopher Praley](https://www.linkedin.com/in/christopher-praley/)
+- **GitHub:** [praley](https://github.com/praley)
+
+## Professional Summary
+
+Experienced researcher with a demonstrated history of working across local, state, and federal governments in addition to the world's top tech companies. Skilled in quantitative analysis, qualitative analysis, and policy analysis. Strong business development professional with a Bachelor of Arts (B.A.) focused in Public Policy Studies.
+
+## Experience
+
+![NYU Logo](images/resume/nyu_logo.png)
+
+## New York University
+**Adjunct Instructor**  
+*Jan 2024 - Present* · 6 mos  
+New York City Metropolitan Area · Hybrid
+
+![Eventbrite Logo](images/resume/eventbrite_logo.png)  
+### Eventbrite
+**Analytics Consultant**  
+*Feb 2023 - Present* · 1 yr 5 mos  
+Remote
+
+![Thumbtack Logo](images/resume/thumbtack_logo.png)  
+### Thumbtack
+**Manager, People Analytics**  
+*Apr 2021 - Dec 2022* · 1 yr 9 mos  
+San Francisco, California, United States  
+- Lead planning and execution of People Analytics function at Thumbtack.
+
+**Senior People Analyst**  
+*Apr 2020 - Apr 2021* · 1 yr 1 mo  
+San Francisco, California, United States
+
+**People Analytics Specialist**  
+*Jun 2019 - Apr 2020* · 11 mos  
+San Francisco Bay Area
+
+![Facebook Logo](images/resume/facebook_logo.png)  
+### Facebook
+**Product Analyst**  
+*May 2018 - Jun 2019* · 1 yr 2 mos  
+San Francisco Bay Area  
+- Supported several Facebook products to analyze user experience at scale.
+
+![Peace Corps Logo](images/resume/peace_corps_logo.png)  
+### Peace Corps
+**Senior Data Analyst**  
+*Oct 2017 - May 2018* · 8 mos  
+Washington, District Of Columbia
+
+**Senior Management Analyst (Data Governance and Analytics)**  
+*Aug 2016 - Oct 2017* · 1 yr 3 mos  
+Washington, District Of Columbia  
+- Co-managed the agency's largest evaluation project, the Country Portfolio Review.
+
+**Management Analyst (Data Analysis)**  
+*Feb 2016 - Aug 2016* · 7 mos  
+Washington D.C. Metro Area
+
+## Education
+
+![University of Chicago Logo](images/resume/uchicago_logo.png)  
+### University of Chicago
+**Bachelor of Arts (B.A.)**, Public Policy Studies  
+*2011 - 2015*  
+- Dean's List 2012-2015
+- Graduated with Special Honors in Public Policy Studies and General Honors in the College
+
+![NYU Logo](images/resume/nyu_logo.png)  
+### New York University
+**Applied Statistics in Social Science Research**  
+*Sep 2023*
+
+## Certifications
+
+### Social and Behavioral Research CITI Certification
+**CITI Program**  
+*Issued Nov 2023 · Expires Nov 2026*  
+Credential ID 59450583
+
+## Skills
+
+- **Research:** 8 endorsements
+- **Public Policy:** 3 endorsements
+- **Programming Languages:** Python, R, JavaScript
+- **Tools:** Git, Docker, AWS
+
+## Projects
+
+### Ebola, by the Peace Corps: Listening to the Voice of the Volunteers
+*Apr 1, 2015*  
+Senior thesis evaluating Peace Corps' response to the Ebola outbreak, focusing on the summer evacuation's impact on Peace Corps Volunteers.
+
+## Languages
+
+- **Spanish**
+
+## Recommendations
+
+For recommendations, please [ask me via email](mailto:chris.praley@gmail.com).

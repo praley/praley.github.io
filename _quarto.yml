@@ -1,20 +1,19 @@
 project:
-  type: website
-  output-dir: docs
+    type: website
 
 website:
-  title: "test_site"
+  title: "Christopher Lee Praley"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Resume"
+        href: resume.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: custom.scss
     css: styles.css
     toc: true
-
-
-

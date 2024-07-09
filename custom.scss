@@ -1,0 +1,138 @@
+/*-- scss:defaults --*/
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+// scss-docs-start gray-color-variables
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$gray-custom: #262626 !default;
+$black:    #000 !default;
+
+// other colors in my palette
+$dust: #F9F7F3 !default;
+$blue:  #006096 !default;
+$avocado: #7D812C !default;
+$goldenrod: #CEA91E !default;
+$orange:  #D25C2F !default;
+$rust:  #AD4837 !default;
+$coffee:  #613B24 !default;
+$turq:  #3E8D7D !default;
+
+// background and stuff
+$primary: $gray-custom !default;
+
+// fonts and stuff
+$body-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
+$heading-font-family: 'Arvo', serif !default;
+$top-bar-font-family: 'Arvo', serif !default;
+$monospace-font-family: 'Courier New', monospace !default;
+
+// font sizes
+$font-size-base: 1rem !default;
+$font-size-lg: 1.25rem !default;
+$font-size-sm: 0.875rem !default;
+
+// mixins for responsiveness
+@mixin respond-to($media) {
+  @if $media == 'phone' {
+    @media (max-width: 600px) { @content; }
+  }
+  @else if $media == 'tablet' {
+    @media (max-width: 900px) { @content; }
+  }
+  @else if $media == 'desktop' {
+    @media (min-width: 901px) { @content; }
+  }
+}
+
+// body styles
+body {
+  font-family: $body-font-family;
+  font-size: $font-size-base;
+  background-color: $dust;
+  color: $gray-900;
+  line-height: 1.6;
+}
+
+// top bar styles
+.top-bar, .top-bar * {
+  font-family: $top-bar-font-family !important;
+  background-color: $gray-800;
+  color: $white;
+  padding: 1rem;
+}
+
+.top-bar a {
+  color: $white;
+  text-decoration: none;
+
+  &:hover {
+    color: $gray-200;
+  }
+}
+
+// heading styles
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font-family;
+  color: $primary;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.75rem; }
+h4 { font-size: 1.5rem; }
+h5 { font-size: 1.25rem; }
+h6 { font-size: 1rem; }
+
+// link styles
+a {
+  color: $blue;
+  text-decoration: none;
+
+  &:hover {
+    color: $orange;
+    text-decoration: underline;
+  }
+}
+
+// button styles
+.button {
+  background-color: $primary;
+  color: $white;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: $font-size-base;
+  cursor: pointer;
+
+  &:hover {
+    background-color: darken($primary, 10%);
+  }
+}
+
+// responsive styles
+@include respond-to('phone') {
+  body {
+    font-size: $font-size-sm;
+  }
+}
+
+@include respond-to('tablet') {
+  body {
+    font-size: $font-size-base;
+  }
+}
+
+@include respond-to('desktop') {
+  body {
+    font-size: $font-size-lg;
+  }
+}
