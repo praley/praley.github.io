@@ -1,0 +1,14 @@
+---
+title: "Test of Blogging"
+description: "Even more text to test."
+author:
+  - name: Christopher Praley
+    url: https://praley.github.io/
+    affiliation: Applied Statistics for Social Science Research @NYU
+date: 09-07-2024
+categories: [Quarto, R] # self-defined categories
+citation: 
+  url: https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/ 
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
