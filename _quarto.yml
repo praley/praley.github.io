@@ -1,5 +1,5 @@
 project:
-  type: website
+    type: website
 
 website:
   title: "Christopher Lee Praley"
@@ -11,6 +11,8 @@ website:
         href: about.qmd
       - text: "Resume"
         href: resume.qmd
+        
+output-dir: docs
 
 format:
   html:
