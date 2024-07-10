@@ -1,5 +1,6 @@
 ---
 title: 'Christopher Lee Praley'
+output-dir: docs
 about:
   template: trestles
   image: images/portrait.png
