@@ -33,7 +33,7 @@ $primary: $gray-custom !default;
 // fonts and stuff
 $body-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
 $heading-font-family: 'Arvo', serif !default;
-$top-bar-font-family: 'Arvo', serif !default;
+$top-bar-font-family: 'Arvo', serif !default; // Ensure this is 'Arvo'
 $monospace-font-family: 'Courier New', monospace !default;
 
 // font sizes
@@ -65,7 +65,7 @@ body {
 
 // top bar styles
 .top-bar, .top-bar * {
-  font-family: $top-bar-font-family !important;
+  font-family: $top-bar-font-family !important; // Ensure this uses 'Arvo'
   background-color: $gray-800;
   color: $white;
   padding: 1rem;
@@ -90,7 +90,7 @@ h1 { font-size: 2.5rem; }
 h2 { font-size: 2rem; }
 h3 { font-size: 1.75rem; }
 h4 { font-size: 1.5rem; }
-h5 { font-size: 1.25rem; }
+h5 { font-size: 1.25rem; } // Corrected this line
 h6 { font-size: 1rem; }
 
 // link styles

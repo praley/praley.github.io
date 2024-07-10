@@ -9,7 +9,7 @@ about:
       href: mailto:chris.praley@gmail.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/christopher-praley
+      href: https://linkedin.com/in/christopher-praley
     - icon: github
       text: Github
       href: https://github.com/praley
