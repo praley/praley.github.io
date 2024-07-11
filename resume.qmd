@@ -1,5 +1,8 @@
 ---
 title: "Resume"
+format:
+  html:
+    toc: false
 ---
 
 ## Contact Info
@@ -8,15 +11,6 @@ title: "Resume"
 -   **LinkedIn:** [Christopher Praley](https://www.linkedin.com/in/christopher-praley/)
 -   **GitHub:** [praley](https://github.com/praley)
 
-## Education
-
-::: {layout="[1,-.2,1,-1.7]"}
-
-![**NYU Steinhardt**, M.S. Applied Statistics for Social Science Research](images/nyu.png){fig-align="left" height="200"}
-
-![**University of Chicago**, B.A. Public Policy Studies](images/uchicago.png){fig-align="left" height="200"}
-
-:::
 
 ## Work Experience
 
@@ -47,13 +41,24 @@ title: "Resume"
 ### Academic and Research Experience
 
 
-::: {layout="[1,-.2,1,-.2, -1, -.5]"}
+::: {layout="[1,-.2,1,-.2, -1, -.5]" layout-valign="bottom"}
 
 ![**NYU Steinhardt**, Adjunct Instructor (Various Courses)](images/nyu.png){fig-align="left" height="200"}
 
 ![**NYU QUEER Data Lab**, Member (2023-2024)](images/queer_flag.svg){fig-align="left" height="200"}
 
 :::
+
+## Education
+
+::: {layout="[1,-.2,1,-1.7]"}
+
+![**NYU Steinhardt**, M.S. Applied Statistics for Social Science Research](images/nyu.png){fig-align="left" height="200"}
+
+![**University of Chicago**, B.A. Public Policy Studies](images/uchicago.png){fig-align="left" height="200"}
+
+:::
+
 
 ## Recommendations
 
