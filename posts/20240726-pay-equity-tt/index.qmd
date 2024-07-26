@@ -1,0 +1,18 @@
+---
+title: "Working Towards Pay Equity at Thumbtack"
+description: "How I worked to end the gender pay gap at Thumbtack."
+author:
+  - name: Christopher Praley
+    url: https://praley.github.io/
+    affiliation: Applied Statistics for Social Science Research @NYU
+date: 09-07-2024
+categories: [Quarto, R] # self-defined categories
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+One of my proudest achievements of working at Thumbtack was ending the gender pay gap in the company.
+
+This required collaboration across the DEI team, Payroll, Finance, and executive leadership. Of course, analytics was the star of the show, identifying pay gaps in certain departments that were quickly ameliorated with care.
+
+You can read more about this process on [Thumbtack's blog post](https://medium.com/life-thumbtack/how-were-working-towards-pay-equity-for-all-dca13a9f7197).
