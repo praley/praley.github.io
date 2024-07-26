@@ -3,7 +3,7 @@ project:
     output-dir: docs
 
 website:
-  title: "Christopher Lee Praley"
+  title: "CLP"
   navbar:
     left:
       - text: "Home"
