@@ -8,7 +8,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Projects and Work"
+      - text: "Work"
         href: projects.qmd
       - text: "Resume"
         href: resume.qmd
