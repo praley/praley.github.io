@@ -1,8 +1,8 @@
 /* css styles */
 
-@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;700&display=swap');
 
 nav {
-    font-family: 'Arvo', serif;
-    font-weight: 550;
+    font-family: 'Bricolage Grotesque', serif;
+    font-weight: 400;
 }

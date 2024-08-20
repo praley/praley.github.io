@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Import Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;700&display=swap');
 
 // scss-docs-start gray-color-variables
 $white:    #fff !default;
@@ -32,8 +32,8 @@ $primary: $gray-custom !default;
 
 // fonts and stuff
 $body-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
-$heading-font-family: 'Arvo', serif !default;
-$top-bar-font-family: 'Arvo', serif !default; // Ensure this is 'Arvo'
+$heading-font-family: 'Bricolage Grotesque', sans-serif !default;
+$top-bar-font-family: 'Bricolage Grotesque', sans-serif !default; // Ensure this is 'Bricolage Grotesque'
 $monospace-font-family: 'Courier New', monospace !default;
 
 // font sizes
@@ -65,7 +65,7 @@ body {
 
 // top bar styles
 .top-bar, .top-bar * {
-  font-family: $top-bar-font-family !important; // Ensure this uses 'Arvo'
+  font-family: $top-bar-font-family !important; // Ensure this uses 'Bricolage Grotesque'
   background-color: $gray-800;
   color: $white;
   padding: 1rem;
